@@ -1,7 +1,7 @@
 # CS11dataLogger
 
 This is example code showing usage of CS11 datalogger project. To start, you first have to format your SD card with FAT32, create a new file and name it "config.txt".
-Inside config.txt paste {"filename":"<filename>"} and replace <filename> with your filename.
+Inside config.txt paste {"filename":"[filename]"} and replace [filename] with your filename.
 
 You will need following libraries to use the code:
 
